@@ -1,0 +1,27 @@
+@charset "utf-8";
+#header {
+	color: #000000;
+	font-family: fredericka-the-great;
+	font-style: normal;
+	font-weight: 500;
+	background-color: #FFFFFF;
+}
+#header {
+}
+
+h1 {
+	font-size: 70px;
+text-align: center;
+}
+.foot {
+	font-family: hammersmith-one;
+	font-style: normal;
+	font-weight: 400;
+	background-attachment: scroll;
+	background-color: rgba(68,58,108,1);
+	background-position: bottom;
+	letter-spacing: 2pt;
+	height: 200px;
+	width: 200px;
+	position: fixed;
+}
